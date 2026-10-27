@@ -1,0 +1,15 @@
+D:\ItstepProjects\TP\PollClient\bin\Debug\net10.0\PollClient.exe
+D:\ItstepProjects\TP\PollClient\bin\Debug\net10.0\PollClient.deps.json
+D:\ItstepProjects\TP\PollClient\bin\Debug\net10.0\PollClient.runtimeconfig.json
+D:\ItstepProjects\TP\PollClient\bin\Debug\net10.0\PollClient.dll
+D:\ItstepProjects\TP\PollClient\bin\Debug\net10.0\PollClient.pdb
+D:\ItstepProjects\TP\PollClient\obj\Debug\net10.0\PollClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\ItstepProjects\TP\PollClient\obj\Debug\net10.0\PollClient.AssemblyInfoInputs.cache
+D:\ItstepProjects\TP\PollClient\obj\Debug\net10.0\PollClient.AssemblyInfo.cs
+D:\ItstepProjects\TP\PollClient\obj\Debug\net10.0\PollClient.csproj.CoreCompileInputs.cache
+D:\ItstepProjects\TP\PollClient\obj\Debug\net10.0\PollClient.dll
+D:\ItstepProjects\TP\PollClient\obj\Debug\net10.0\refint\PollClient.dll
+D:\ItstepProjects\TP\PollClient\obj\Debug\net10.0\PollClient.pdb
+D:\ItstepProjects\TP\PollClient\obj\Debug\net10.0\PollClient.genruntimeconfig.cache
+D:\ItstepProjects\TP\PollClient\obj\Debug\net10.0\ref\PollClient.dll
+D:\ItstepProjects\TP\PollClient\obj\Debug\net10.0\PollClient.csproj.Up2Date

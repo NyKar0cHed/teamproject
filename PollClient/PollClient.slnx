@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PollServer/PollServer.csproj" Id="e0ac7adb-c870-4215-b6ed-036640037e6e" />
+  <Project Path="PollClient.csproj" />
+</Solution>
